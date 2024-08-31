@@ -1,5 +1,5 @@
 # Nome(s) Discente(s): Maria Luísa Mendonça Oliveira, Poliana Cristina de Sousa
-# Matrícula(s): 0049545, 
+# Matrícula(s): 0049545,
 # Data: agosto de 2024
 
 
